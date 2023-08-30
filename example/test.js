@@ -1,4 +1,4 @@
-const { getFileNameFromArguments, getObjectFromFile, generateHTML } = require('../index.js')
+const { getFileNameFromArguments, getObjectFromFile, generateHTML } = require('@wang-zhong/object2html')
 
 const filename = getFileNameFromArguments()
 const object = getObjectFromFile(filename)

@@ -1,5 +1,5 @@
 {
-  "name": "json2html",
+  "name": "@wang-zhong/object2html",
   "version": "0.0.1",
   "description": "Simple html generator that reads JSON object from text file and generate html",
   "main": "index.js",
